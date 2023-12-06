@@ -14,7 +14,7 @@ license = "MIT"
 std = []
 
 [dependencies]
-hal = { version = "=1.0.0-rc.1", package = "embedded-hal" }
+hal = { version = "=1.0.0-rc.2", package = "embedded-hal" }
 
 [dev-dependencies]
 # lazy_static = "1.4"
